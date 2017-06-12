@@ -1,0 +1,52 @@
+apply plugin: 'com.android.application'
+//apply plugin: 'tiny-plugin'
+//
+//
+//tinyInfo {
+//    resourceDir = [
+//            // your res dir
+//            "app/src/main/res",
+//            "lib/src/main/res"
+//    ]
+//    resourcePattern = [
+//            // your res pattern
+//            "drawable[a-z-]*",
+//            "mipmap[a-z-]*"
+//    ]
+//    whiteList = [
+//            // your white list, support Regular Expressions
+//            "aaa.png",
+//            "ccc.png"
+//    ]
+//    apiKey = 'hsKoeq-Etjb1a17Z-nhY9u71lv8FRA7I'
+//}
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion "25.0.3"
+    defaultConfig {
+        applicationId "test.zhangniuniu.niodemo"
+        minSdkVersion 9
+        targetSdkVersion 25
+        versionCode 1
+        versionName "1.0"
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
+        exclude group: 'com.android.support', module: 'support-annotations'
+    })
+    compile 'com.android.support:appcompat-v7:25.3.1'
+    compile 'com.android.support.constraint:constraint-layout:1.0.0-alpha9'
+    testCompile 'junit:junit:4.12'
+
+}

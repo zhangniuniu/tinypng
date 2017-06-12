@@ -1,0 +1,80 @@
+[
+    {
+        "preSize": "40.98KB",
+        "md5": "9405a6809a4a4d89cb124e5961a88cf3",
+        "postSize": "40.98KB",
+        "path": "app/src/main/res/mipmap-xhdpi/xixi.png"
+    },
+    {
+        "md5": "fc2e273edeab931302b58cb5b209e0cd",
+        "path": "app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png",
+        "postSize": "5.56KB",
+        "preSize": "5.56KB"
+    },
+    {
+        "md5": "9828ff94909d2e5a64c4a1816b7e39fd",
+        "path": "app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+        "postSize": "3.37KB",
+        "preSize": "3.37KB"
+    },
+    {
+        "md5": "72d96595fc2a21929e7aa319bcab3268",
+        "path": "app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png",
+        "postSize": "3.92KB",
+        "preSize": "3.92KB"
+    },
+    {
+        "md5": "f8c39061d3b57bcd861bd679a35fd82c",
+        "path": "app/src/main/res/mipmap-xxhdpi/ic_launcher.png",
+        "postSize": "2.51KB",
+        "preSize": "2.51KB"
+    },
+    {
+        "md5": "bb98120ac6813b7a1ef40f587f368aca",
+        "path": "app/src/main/res/mipmap-xhdpi/ic_launcher_round.png",
+        "postSize": "2.23KB",
+        "preSize": "2.23KB"
+    },
+    {
+        "md5": "be9de42f81f55c605aa7229eb9cfef60",
+        "path": "app/src/main/res/mipmap-xhdpi/ic_launcher.png",
+        "postSize": "1.48KB",
+        "preSize": "1.48KB"
+    },
+    {
+        "md5": "6e98a0ea5aab5880a110c89a90467cd8",
+        "path": "app/src/main/res/mipmap-mdpi/ic_launcher_round.png",
+        "postSize": "1.02KB",
+        "preSize": "1.02KB"
+    },
+    {
+        "md5": "07cf668a1524720de2b0ae93f6d107f7",
+        "path": "app/src/main/res/mipmap-mdpi/ic_launcher.png",
+        "postSize": "687.00B",
+        "preSize": "687.00B"
+    },
+    {
+        "md5": "a917977b3321b882507c0811e7f35f27",
+        "path": "app/src/main/res/mipmap-hdpi/ic_launcher_round.png",
+        "postSize": "1.76KB",
+        "preSize": "1.76KB"
+    },
+    {
+        "md5": "bea443dad771aa3b9e469bb54a3b5509",
+        "path": "app/src/main/res/mipmap-hdpi/ic_launcher.png",
+        "postSize": "1.06KB",
+        "preSize": "1.06KB"
+    },
+    {
+        "md5": "2cfb94a51bda82b25953ddca702996cf",
+        "path": "app/src/main/res/mipmap-hdpi/ccc.jpg",
+        "postSize": "16.18KB",
+        "preSize": "16.18KB"
+    },
+    {
+        "md5": "3268a8498f37f239e7cd532af9640e72",
+        "path": "app/src/main/res/mipmap-hdpi/bbb.jpg",
+        "postSize": "48.42KB",
+        "preSize": "48.42KB"
+    }
+]
